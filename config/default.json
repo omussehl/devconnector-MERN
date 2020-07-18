@@ -1,3 +1,7 @@
 {
-  "mongURI": "mongodb+srv://Omar123:Omar123@devconnector-hkf5m.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Omar123:Omar123@devconnector-hkf5m.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "781b13bc3d5b546b9919",
+  "githubSecret": "988220a6a05da507606a2c93f800cbc03cafeffb",
+  "githubToken": "ef49c673a96f7f6a26924277f83d739ff3238557"
 }
